@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[Anthem login page loaded]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on SignUpbutton]]>
+    </line>
+    <line>
+      <![CDATA[Verified registration page]]>
+    </line>
+    <line>
+      <![CDATA[Verified employee First Name field]]>
+    </line>
+    <line>
+      <![CDATA[Verified employee last Name field]]>
+    </line>
+    <line>
+      <![CDATA[Verified domain Id field]]>
+    </line>
+    <line>
+      <![CDATA[Verified email Id field]]>
+    </line>
+    <line>
+      <![CDATA[Verified password Field.]]>
+    </line>
+    <line>
+      <![CDATA[Verified confirm Password Field]]>
+    </line>
+    <line>
+      <![CDATA[Verified select Role Drop Down]]>
+    </line>
+    <line>
+      <![CDATA[Selected role from drop down.]]>
+    </line>
+    <line>
+      <![CDATA[Verified cost Centre Id Field.]]>
+    </line>
+    <line>
+      <![CDATA[Verified add Cost Centre Button.]]>
+    </line>
+  </reporter-output>
+  <suite name="Parallel test suite" duration-ms="54999" started-at="2021-01-13T07:21:52Z" finished-at="2021-01-13T07:22:47Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="54999" started-at="2021-01-13T07:21:52Z" finished-at="2021-01-13T07:22:47Z">
+      <class name="ToolsQA.Anthem_LoginTestScenarios">
+        <test-method status="PASS" signature="TC_2_SignUpPage()[pri:0, instance:ToolsQA.Anthem_LoginTestScenarios@702b8b12]" name="TC_2_SignUpPage" duration-ms="54964" started-at="2021-01-13T12:51:52Z" finished-at="2021-01-13T12:52:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[Anthem login page loaded]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on SignUpbutton]]>
+            </line>
+            <line>
+              <![CDATA[Verified registration page]]>
+            </line>
+            <line>
+              <![CDATA[Verified employee First Name field]]>
+            </line>
+            <line>
+              <![CDATA[Verified employee last Name field]]>
+            </line>
+            <line>
+              <![CDATA[Verified domain Id field]]>
+            </line>
+            <line>
+              <![CDATA[Verified email Id field]]>
+            </line>
+            <line>
+              <![CDATA[Verified password Field.]]>
+            </line>
+            <line>
+              <![CDATA[Verified confirm Password Field]]>
+            </line>
+            <line>
+              <![CDATA[Verified select Role Drop Down]]>
+            </line>
+            <line>
+              <![CDATA[Selected role from drop down.]]>
+            </line>
+            <line>
+              <![CDATA[Verified cost Centre Id Field.]]>
+            </line>
+            <line>
+              <![CDATA[Verified add Cost Centre Button.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_2_SignUpPage -->
+      </class> <!-- ToolsQA.Anthem_LoginTestScenarios -->
+    </test> <!-- test -->
+  </suite> <!-- Parallel test suite -->
+</testng-results>

@@ -1,0 +1,22 @@
+19:05:58.876 [main] INFO  ToolsQA.baseclass - Launching browser
+19:07:10.910 [main] INFO  ToolsQA.baseclass - Anthem login page loaded
+19:07:11.072 [main] INFO  ToolsQA.baseclass - Entered username
+19:07:11.202 [main] INFO  ToolsQA.baseclass - Entered password
+19:07:11.308 [main] INFO  ToolsQA.baseclass - Clicked on login_Button
+19:07:18.528 [main] INFO  ToolsQA.baseclass - Launching browser
+19:08:30.833 [main] INFO  ToolsQA.baseclass - Launching browser
+19:09:42.183 [main] INFO  ToolsQA.baseclass - Anthem login page loaded
+19:09:42.364 [main] INFO  ToolsQA.baseclass - Entered username
+19:09:42.506 [main] INFO  ToolsQA.baseclass - Entered password
+19:09:42.606 [main] INFO  ToolsQA.baseclass - Clicked on login_Button
+19:09:46.353 [main] INFO  ToolsQA.baseclass - Launching browser
+19:11:01.685 [main] INFO  ToolsQA.baseclass - Anthem login page loaded
+19:11:01.829 [main] INFO  ToolsQA.baseclass - Clicked on SignUpbutton
+19:11:01.860 [main] INFO  ToolsQA.baseclass - Verified registration page
+19:11:01.894 [main] INFO  ToolsQA.baseclass - Verified employee First Name field
+19:11:01.926 [main] INFO  ToolsQA.baseclass - Verified employee last Name field
+19:11:01.959 [main] INFO  ToolsQA.baseclass - Verified domain Id field
+19:11:01.989 [main] INFO  ToolsQA.baseclass - Verified email Id field
+19:11:02.017 [main] INFO  ToolsQA.baseclass - Verified password Field.
+19:11:02.043 [main] INFO  ToolsQA.baseclass - Verified confirm Password Field
+19:11:02.075 [main] INFO  ToolsQA.baseclass - Verified select Role Drop Down

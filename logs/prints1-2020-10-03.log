@@ -1,0 +1,21 @@
+16:25:20.341 [main] INFO  ToolsQA.baseclass - Entered password
+16:25:20.623 [main] INFO  ToolsQA.baseclass - Clicked on login_Button
+16:25:21.148 [main] INFO  ToolsQA.baseclass - UserName Text is displayed
+16:25:22.186 [main] INFO  ToolsQA.baseclass - Clicked on Place New Order_Button
+16:25:22.602 [main] INFO  ToolsQA.baseclass - POD_Bulk option has displayed and processed
+16:25:29.276 [main] INFO  ToolsQA.baseclass - ChooseFile Option has verfied and Letter File Uploaded Successfully
+06:17:23.492 [main] INFO  ToolsQA.baseclass - Launching browser
+06:19:18.776 [main] INFO  ToolsQA.baseclass - Anthem login page loaded
+06:19:18.905 [main] INFO  ToolsQA.baseclass - Entered username
+06:19:19.025 [main] INFO  ToolsQA.baseclass - Entered password
+06:19:24.129 [main] INFO  ToolsQA.baseclass - Clicked on login_Button
+06:19:25.385 [main] INFO  ToolsQA.baseclass - UserName Text is displayed
+06:19:27.847 [main] INFO  ToolsQA.baseclass - Clicked on Place New Order_Button
+06:22:28.771 [main] INFO  ToolsQA.baseclass - Launching browser
+06:24:03.475 [main] INFO  ToolsQA.baseclass - Anthem login page loaded
+06:24:03.695 [main] INFO  ToolsQA.baseclass - Entered username
+06:24:03.818 [main] INFO  ToolsQA.baseclass - Entered password
+06:24:03.944 [main] INFO  ToolsQA.baseclass - Clicked on login_Button
+06:24:04.774 [main] INFO  ToolsQA.baseclass - UserName Text is displayed
+06:24:06.150 [main] INFO  ToolsQA.baseclass - Clicked on Place New Order_Button
+06:26:48.128 [main] INFO  ToolsQA.baseclass - Launching browser

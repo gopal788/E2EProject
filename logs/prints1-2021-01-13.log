@@ -1,0 +1,21 @@
+11:55:51.419 [main] INFO  ToolsQA.baseclass - Verified password Field.
+11:55:51.494 [main] INFO  ToolsQA.baseclass - Verified confirm Password Field
+11:55:51.562 [main] INFO  ToolsQA.baseclass - Verified select Role Drop Down
+11:55:52.700 [main] INFO  ToolsQA.baseclass - Selected role from drop down.
+11:55:52.750 [main] INFO  ToolsQA.baseclass - Verified cost Centre Id Field.
+11:55:52.799 [main] INFO  ToolsQA.baseclass - Verified add Cost Centre Button.
+11:55:57.597 [main] INFO  ToolsQA.baseclass - Launching browser
+11:59:04.619 [main] INFO  ToolsQA.baseclass - Anthem login page loaded
+11:59:04.773 [main] INFO  ToolsQA.baseclass - Entered username
+11:59:04.970 [main] INFO  ToolsQA.baseclass - Entered password
+11:59:05.098 [main] INFO  ToolsQA.baseclass - Clicked on login_Button
+11:59:05.854 [main] INFO  ToolsQA.baseclass - UserName Text is displayed
+11:59:10.822 [main] INFO  ToolsQA.baseclass - Clicked on Place New Order_Button
+12:50:02.190 [main] INFO  ToolsQA.baseclass - Launching browser
+12:50:54.585 [main] INFO  ToolsQA.baseclass - Anthem login page loaded
+12:50:59.834 [main] INFO  ToolsQA.baseclass - Clicked on SignUpbutton
+12:50:59.876 [main] INFO  ToolsQA.baseclass - Verified registration page
+12:50:59.914 [main] INFO  ToolsQA.baseclass - Verified employee First Name field
+12:50:59.950 [main] INFO  ToolsQA.baseclass - Verified employee last Name field
+12:50:59.986 [main] INFO  ToolsQA.baseclass - Verified domain Id field
+12:51:00.051 [main] INFO  ToolsQA.baseclass - Verified email Id field

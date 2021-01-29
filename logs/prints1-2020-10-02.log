@@ -1,0 +1,22 @@
+16:10:17.383 [main] INFO  ToolsQA.baseclass - Entered username
+16:10:17.563 [main] INFO  ToolsQA.baseclass - Entered password
+16:10:17.718 [main] INFO  ToolsQA.baseclass - Clicked on login_Button
+16:10:18.332 [main] INFO  ToolsQA.baseclass - UserName Text is displayed
+16:10:19.617 [main] INFO  ToolsQA.baseclass - Clicked on Place New Order_Button
+16:14:42.257 [main] INFO  ToolsQA.baseclass - Launching browser
+16:16:21.250 [main] INFO  ToolsQA.baseclass - Anthem login page loaded
+16:16:21.465 [main] INFO  ToolsQA.baseclass - Entered username
+16:16:21.602 [main] INFO  ToolsQA.baseclass - Entered password
+16:16:21.734 [main] INFO  ToolsQA.baseclass - Clicked on login_Button
+16:16:22.386 [main] INFO  ToolsQA.baseclass - UserName Text is displayed
+16:16:24.106 [main] INFO  ToolsQA.baseclass - Clicked on Place New Order_Button
+16:20:42.048 [main] INFO  ToolsQA.baseclass - Launching browser
+16:22:05.136 [main] INFO  ToolsQA.baseclass - Anthem login page loaded
+16:22:05.376 [main] INFO  ToolsQA.baseclass - Entered username
+16:22:05.575 [main] INFO  ToolsQA.baseclass - Entered password
+16:22:05.781 [main] INFO  ToolsQA.baseclass - Clicked on login_Button
+16:22:06.378 [main] INFO  ToolsQA.baseclass - UserName Text is displayed
+16:22:08.137 [main] INFO  ToolsQA.baseclass - Clicked on Place New Order_Button
+16:23:52.976 [main] INFO  ToolsQA.baseclass - Launching browser
+16:25:19.869 [main] INFO  ToolsQA.baseclass - Anthem login page loaded
+16:25:20.107 [main] INFO  ToolsQA.baseclass - Entered username
